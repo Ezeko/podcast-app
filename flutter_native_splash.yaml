@@ -1,0 +1,15 @@
+flutter_native_splash:
+  image: assets/images/jolly_podcast_logo.png     # your exact file path
+  android_gravity: fill
+  fullscreen: true
+  web: false 
+  # Optional but recommended
+  color: "#00C853"                # background color behind the image (in case of transparency)
+  android_12:
+    image: assets/images/jolly_podcast_logo.png
+    color: "#00C853"
+    icon_background_color: "#00C853"
+    branding_mode: none
+
+  # iOS
+  ios_content_mode: scaleToFill   # how to display the image on iOS (options: scaleToFill, scaleAspectFill, scaleAspectFit)
