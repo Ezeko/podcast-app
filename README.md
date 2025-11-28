@@ -1,5 +1,7 @@
 # Jolly Podcast App
 
+[Download Android APK](android/apk/app-release.apk)
+
 ## 🚀 Steps to Run the Project
 
 1. **Prerequisites**
